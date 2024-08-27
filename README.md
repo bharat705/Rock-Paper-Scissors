@@ -33,10 +33,10 @@ To run the game locally:
 - Basic implementation of Rock Paper Scissors that runs in the console.
 - Random computer selection to play against the user.
 - User-friendly prompts and console output to display results.
+- Basic score tracking to allow multiple rounds of play.
 
 ## Future Enhancements
 - Add a graphical user interface (GUI) to make the game more interactive.
-- Implement score tracking to allow multiple rounds of play.
 - Add animations and sound effects to enhance the gaming experience.
 
 ## Acknowledgements
